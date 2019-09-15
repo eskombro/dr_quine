@@ -1,5 +1,7 @@
 #### DR QUINE [42 project]
 
+[Project specifications PDF](./dr_quine.en.pdf)
+
 A quine is a computer program (a kind of metaprogram) whose output and source code
 are identical. As a challenge or for fun, some programmers try to write the shortest quine
 in a given programming language

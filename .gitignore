@@ -50,3 +50,10 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+
+# dr_quine
+tmp_*
+Colleen
+Grace
+Grace_kid.c
+Sully_*
