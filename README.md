@@ -10,3 +10,6 @@ in a given programming language
 For this project, you will have to recode three different programs, each with different
 properties. Each programs will have to be coded in C and in Assembly, and respectivly
 in a folder named C and ASM, each folders containing its own Makefile with the usual rules.
+
+The only Bonus accepted during p2p is to have redone this project entirely in the
+language of your choice.
